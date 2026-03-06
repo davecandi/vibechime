@@ -1,0 +1,6 @@
+normalize.py
+.DS_Store
+venv/
+logs/
+assets/
+
