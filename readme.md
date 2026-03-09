@@ -12,3 +12,4 @@ Thanks to the Gemini CLI community for the feedback!
 
 Original concept: Python script to monitor terminal activity and play sound when agent stops responding.
 
+Project page: [https://davecandi.com/projects/vibechime/](https://davecandi.com/projects/vibechime/)
